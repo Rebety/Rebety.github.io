@@ -6,13 +6,13 @@
 
 描述：完成bing搜索引擎，添加了说明并改变说明字体和颜色。
 
-链接：https://rebety.github.io/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E.html
+[作业1链接](https://rebety.github.io/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E.html)
 
 ##2. 作业2 人物共现分析
 
 描述：使用《三体》作为长文本，进行主要人物之间的共现关系分析。但由于我并没有看过《三体》全文，且jieba的切词略有一些不准（比如把程心切为“程”“心”）在操作过程中可能会产生一定的数据遗漏，主要人物的数量有可能有所缺失，或者部分主要人物被作为了次要人物删除。
 
-链接：https://rebety.github.io/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E4%B8%89%E4%BD%93.html
+[作业2链接](https://rebety.github.io/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E4%B8%89%E4%BD%93.html)
 
 
 
